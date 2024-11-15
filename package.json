@@ -1,0 +1,14 @@
+{
+  "name": "my_app",
+  "version": "1.0.0",
+  "description": "my first app",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^33.2.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
+
